@@ -1,3 +1,6 @@
 x = "Hello Vidya"
+y = "The master"
 print(x)
 print(type(x))
+print(y)
+print(y)
